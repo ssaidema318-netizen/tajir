@@ -1,0 +1,79 @@
+{
+  "@@locale": "ar",
+  "appName": "Tajir",
+  "@appName": {
+    "description": "Application name"
+  },
+  "dashboard": "الرئيسية",
+  "@dashboard": {
+    "description": "Dashboard navigation label"
+  },
+  "customers": "العملاء",
+  "@customers": {
+    "description": "Customers navigation label"
+  },
+  "sales": "المبيعات",
+  "@sales": {
+    "description": "Sales navigation label"
+  },
+  "payments": "التحصيل",
+  "@payments": {
+    "description": "Payments navigation label"
+  },
+  "more": "المزيد",
+  "@more": {
+    "description": "More navigation label"
+  },
+
+  "addCustomer": "إضافة عميل",
+  "@addCustomer": {
+    "description": "Add customer action label"
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "Save action label"
+  },
+  "delete": "حذف",
+  "@delete": {
+    "description": "Delete action label"
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "Cancel action label"
+  },
+
+  "name": "الاسم",
+  "@name": {
+    "description": "Name field label"
+  },
+  "phone": "رقم الهاتف",
+  "@phone": {
+    "description": "Phone field label"
+  },
+  "address": "العنوان",
+  "@address": {
+    "description": "Address field label"
+  },
+  "idNumber": "رقم الهوية",
+  "@idNumber": {
+    "description": "National ID field label"
+  },
+
+  "noCustomers": "مفيش عملاء لسه",
+  "@noCustomers": {
+    "description": "Message shown when there are no customers"
+  },
+  "customerAdded": "تم إضافة العميل بنجاح",
+  "@customerAdded": {
+    "description": "Customer added success message"
+  },
+  "customerDeleted": "تم حذف العميل بنجاح",
+  "@customerDeleted": {
+    "description": "Customer deleted success message"
+  },
+
+  "requiredField": "هذا الحقل مطلوب",
+  "@requiredField": {
+    "description": "Validation message for a required field"
+  }
+}

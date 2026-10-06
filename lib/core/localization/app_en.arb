@@ -1,0 +1,44 @@
+{
+  "@@locale": "en",
+
+  "appName": "Tajir",
+  "@appName": {"description": "Application name"},
+  "dashboard": "Dashboard",
+  "@dashboard": {"description": "Dashboard navigation label"},
+  "customers": "Customers",
+  "@customers": {"description": "Customers navigation label"},
+  "sales": "Sales",
+  "@sales": {"description": "Sales navigation label"},
+  "payments": "Payments",
+  "@payments": {"description": "Payments navigation label"},
+  "more": "More",
+  "@more": {"description": "More navigation label"},
+
+  "addCustomer": "Add Customer",
+  "@addCustomer": {"description": "Button label for adding a customer"},
+  "save": "Save",
+  "@save": {"description": "Save button label"},
+  "delete": "Delete",
+  "@delete": {"description": "Delete button label"},
+  "cancel": "Cancel",
+  "@cancel": {"description": "Cancel button label"},
+
+  "name": "Name",
+  "@name": {"description": "Name field label"},
+  "phone": "Phone Number",
+  "@phone": {"description": "Phone number field label"},
+  "address": "Address",
+  "@address": {"description": "Address field label"},
+  "idNumber": "ID Number",
+  "@idNumber": {"description": "ID number field label"},
+
+  "noCustomers": "No customers yet",
+  "@noCustomers": {"description": "Message shown when there are no customers"},
+  "customerAdded": "Customer added successfully",
+  "@customerAdded": {"description": "Confirmation shown after adding a customer"},
+  "customerDeleted": "Customer deleted successfully",
+  "@customerDeleted": {"description": "Confirmation shown after deleting a customer"},
+
+  "requiredField": "This field is required",
+  "@requiredField": {"description": "Validation message for a required field"}
+}
